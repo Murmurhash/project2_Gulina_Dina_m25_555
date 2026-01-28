@@ -56,9 +56,10 @@ make project
 ## Демонстрации
 
 1. База данных:
-  
+  [![asciicast](https://asciinema.org/a/DAMrrtCa7CAXGdut.svg)](https://asciinema.org/a/DAMrrtCa7CAXGdut)
 
 2. CRUD:
-  
+  [![asciicast](https://asciinema.org/a/ONNBFR27n7zEEPo8.svg)](https://asciinema.org/a/ONNBFR27n7zEEPo8)
 
-3. Декораторы
+3. Декораторы:
+[![asciicast](https://asciinema.org/a/bL3qbz2nIg7wQkvm.svg)](https://asciinema.org/a/bL3qbz2nIg7wQkvm)
